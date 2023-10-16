@@ -3,7 +3,15 @@
 
 Resolvi deixar todos os repositórios que criei ao longo dos anos, alguns possuem coisas bem básicas e bastante anotações, já que são de quando eu comecei a estudar, outras são completas, como projetos pessoais criados para por em prática todo o meu potencial, aproveitem!
 
+Atualmente estou migrando de área, após passar por front-end e back-end, acabei participando de alguns projetos android e gostei de mais, hoje, meu foco está em desenvolvimento mobile com Java e Kotlin.
+
 <hr />
+
+## Atualmente o que ando aprendendo
+<div>
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+</div>
 
 ## Algumas tecnologias e ferramentas que utilizo bastante
 
