@@ -1,9 +1,4 @@
-## Olá, que bom ter você por aqui, me chamo James!
-### Fique a vontade para vasculhar todos os meus repos :D
-
-Resolvi deixar todos os repositórios que criei ao longo dos anos, alguns possuem coisas bem básicas e bastante anotações, já que são de quando eu comecei a estudar, outras são completas, como projetos pessoais criados para por em prática todo o meu potencial, aproveitem!
-
-Atualmente estou migrando de área, após passar por front-end e back-end, acabei participando de alguns projetos android e gostei de mais, hoje, meu foco está em desenvolvimento mobile com Java e Kotlin.
+Resolvi deixar todos os repositórios que criei ao longo dos anos públicos, alguns possuem coisas bem básicas e bastante anotações, já que são de quando eu comecei a estudar, outras são completas, como projetos pessoais criados para por em prática todo o meu potencial, aproveitem!
 
 <hr />
 
@@ -14,7 +9,6 @@ Atualmente estou migrando de área, após passar por front-end e back-end, acabe
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
  </div>
  
  <br />
